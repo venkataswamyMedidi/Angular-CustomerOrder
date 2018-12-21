@@ -38,21 +38,6 @@ Simply clone the project or download and extract the .zip to get started.
 
 Once the app is running you can play around with editing customers after you login. Use any email address and any password that's at least 6 characters long (with 1 digit).
 
-Here are a few screenshots from the app:
-
-<img width="500" src="src/assets/images/screenshots/cards.png" border="0" />
-
-<br /><br />
-
-<img width="500" src="src/assets/images/screenshots/grid.png" border="0" />
-
-<br /><br />
-
-<img width="500" src="src/assets/images/screenshots/orders.png" border="0" />
-
-<br /><br />
-
-<img width="500" src="src/assets/images/screenshots/details.png" border="0" />
 
 ## Running Angular Playground
 
